@@ -6,3 +6,5 @@
 3.index.html, tweets.html:- Added tweets.html with embedded tweet and links between pages.
 
 4.index.html, tweets.html:This portfolio website shows my work as a nursery school teacher and my learning journey with HTML and ALX.
+
+5.index.html:Added table with borders to index.html for learners info and nursery teaching.
